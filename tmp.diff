@@ -1,0 +1,30 @@
+commit d5ce92e482ea4ab4d98db0baf2c6c0586c043878
+Author: Jennifer Pike <agent.jennifer.pike@gmail.com>
+Date:   Sat Jun 20 07:22:57 2026 +0000
+
+    Update .gitlab-ci.yml
+
+diff --git a/.gitlab-ci.yml b/.gitlab-ci.yml
+index 606a3aa..c34639f 100644
+--- a/.gitlab-ci.yml
++++ b/.gitlab-ci.yml
+@@ -1,9 +1,12 @@
+-pages:
+-  stage: deploy
++# The Docker image that will be used to build your app
++image: node:20
++create-pages:
++  pages:
++    # The folder that contains the files to be exposed at the Page URL
++    publish: public
++  rules:
++    # This ensures that only pushes to the default branch will trigger
++    # a pages deploy
++    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+   script:
+     - node scripts/build.mjs
+-  artifacts:
+-    paths:
+-      - public
+-  rules:
+-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

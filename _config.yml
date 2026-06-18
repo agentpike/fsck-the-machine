@@ -1,0 +1,32 @@
+title: fsck The Machine/Cancer
+description: fsckthemachine.org
+url: https://fsckthemachine.org
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins: []
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - AGENTS.md
+  - tmp.diff
+  - .mintignore
+  - .atlas-analysis.json
+  - docs.json
+  - scripts
+  - public
+  - index.mdx
+  - fonts
+  - logo
+  - firm-replace.js
+  - search.js
+  - style.css
+  - '*.ai'
+  - '*.png'
+  - fsck-the-machine-cubes-melting.svg
+  - fsck-the-machine-cubes-melting-simple.svg
