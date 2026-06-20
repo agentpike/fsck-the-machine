@@ -7,7 +7,7 @@ description: fsckthemachine.org
 <div class="fsck-home">
   <div class="fsck-hero">
     <img
-      src="{{ "/assets/fsck-the-machine-cubes-melting-simple.svg" | relative_url }}"
+      src="{{ "/assets/exploding_cog.svg" | relative_url }}"
       alt="fsck The Machine — melting cubes"
       class="fsck-logo"
     />
@@ -17,6 +17,7 @@ description: fsckthemachine.org
     </div>
   </div>
 </div>
+
 
 ## fsck
 
