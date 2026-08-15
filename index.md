@@ -183,9 +183,9 @@ The old machine is broken. It's time to reformat.
 
 ----
 
-##Additional thoughts
+## Additional thoughts
 
-## Permanent Fear
+### Permanent Fear
 
 These days I spend every day in fear- I know where my last months are headed. I know exactly what they look like. I also am afraid of having a lucid/creative moment and getting dinged by my insurance company for leveraging 35 years of thought through the lens of AI and being treated like I'm fit to work 40 hours a week. I can't I can't stay awake 8 hours a day in a row. I'm exhausted to the bone. All my energy goes into anxiety about my chaotic future and on the rare occasion I don't have a migraine when I'm awake, not exhausted and the stars align- I get any brain cell activity and aid it with AI and suddenly the insurers think I'm Vin Diesel's body with Einstein's brain. Good luck. I'm unhirable and that's enough to channel into that anxiety I was talking about. Everything depends on The Insurer and The Firm and The Firm has cut me loose so now its all on The Insurer and they're damn sure going to do everything they can to get rid of me. I know how long term disability works and I get the letters every few weeks with them wondering if I'm ready to go the fuck back to work or not. Dude, i have incurable cancer. My body was irradiated. I'm never getting back to that. Every day is hell. I live in a panic and everyone is constantly trying to rip the last things I have from between my fingers and out from my damn neurons. Am I supposed to go into a sleep pod? Comatose? So help me do it then? Unfortunately while I'm incurable I'm not immediately terminal enough to merit that kind of help, so I get all the fun of the ride and none of the help of any kind.
 
